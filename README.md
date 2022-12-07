@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+to+my+profile;)](https://git.io/typing-svg)
+
 ### May be a new wannabe programmer here :smile: 
 learning python.👋
 
